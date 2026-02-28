@@ -9,11 +9,13 @@ A quick clone and easy solution adaptoed, look at https://github.com/xiaolaba/Ac
 
 
 ### file & WAV audio files for demo   
-20260228143912.WAV, original WAV
+```
+20260228143912.WAV, original WAV  
 20260228143912_copy.WAV, a full copy of original   
 20260228143912_splitted_512K.wav, extracted first 512kB of original  
 splitwav.ASM, source code, FASM is used to build exe  
 splitwav.EXE, built from asm code, windows OS, to process WAV files  
+```
 
 ### source code is self explanatory.   
 ```
