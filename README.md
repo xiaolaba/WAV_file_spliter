@@ -40,3 +40,14 @@ include 'WIN32AX.INC'
   size512k equ 0x7ffff  ;512k to be save to trimmed wav file, change this in case wanna other file size
                                                                                                           
 ```
+
+
+### how to build this tool (splitwav.EXE)
+download FASM, https://flatassembler.net/download.php  
+save to folder, run FASMW.EXE  
+
+![FASMW.JPG](FASMW.JPG)
+
+open splitwav.ASM
+press F9 or 'compile'
+![2026-02-28how-to-build.JPG](2026-02-28how-to-build.JPG)  
